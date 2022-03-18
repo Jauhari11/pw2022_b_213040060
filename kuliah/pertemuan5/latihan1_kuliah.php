@@ -17,7 +17,7 @@ $hari = ["senin", "selasa", "rabu", "kamis"];//cara baru
 $bulan = array("januari", "februari", "maret", "april"); //cara lama
 
 $myArray = [100, "jauhari", true];
-
+ 
 // menampilkan array
 // menampilkan 1 elemen mengunakan index, dimulai dari 0
 echo $hari[1];
